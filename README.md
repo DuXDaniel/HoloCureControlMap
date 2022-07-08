@@ -11,3 +11,5 @@ Instructions:
 3. Bind the controls you want for the controller.
   3a. Save the settings if you want. These settings will autoload next time you run HoloCureControlMap (from a .json file).
 4. Run the pad control and proceed to play in HoloCure!
+
+Feel free to play with this code as much as you want.
