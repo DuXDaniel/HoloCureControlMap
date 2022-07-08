@@ -1,0 +1,1 @@
+{"up": "ABS_Y", "down": "ABS_Y", "left": "ABS_X", "right": "ABS_X", "strafe": "ABS_Z", "pet": "BTN_THUMBL", "special": "BTN_TL", "enter": "BTN_TL", "upIntensity": "1", "downIntensity": "-1", "leftIntensity": "-1", "rightIntensity": "1", "strafeIntensity": "1", "petIntensity": "1", "specialIntensity": "1", "enterIntensity": "-1"}
