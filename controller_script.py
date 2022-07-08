@@ -4,12 +4,9 @@ import time
 import sys
 import json
 import math
-from PyQt5.QtCore import QDateTime, Qt, QTimer, QObject, QThread, pyqtSignal, QRunnable
-from PyQt5.QtWidgets import (QApplication, QCheckBox, QComboBox, QDateTimeEdit, QDial, QDialog, QGridLayout, QGroupBox,
-                             QHBoxLayout, QLabel, QLineEdit, QProgressBar, QPushButton, QRadioButton, QScrollBar,
-                             QSizePolicy, QSlider, QSpinBox, QStyleFactory, QTableWidget, QTabWidget, QTextEdit,
-                             QVBoxLayout, QWidget, QHeaderView, QSpacerItem, QTableWidgetItem,
-                             QTableWidgetSelectionRange, QAbstractItemView, QFileDialog, QPlainTextEdit)
+from PyQt5.QtCore import Qt, QObject, QThread, QRunnable, pyqtSignal
+from PyQt5.QtWidgets import (QApplication, QComboBox, QGridLayout, QGroupBox, QDialog, QSizePolicy, QStyleFactory,
+                             QLabel, QLineEdit, QProgressBar, QPushButton, QWidget, QPlainTextEdit)
 import pyautogui
 
 class XboxBinder(object):
